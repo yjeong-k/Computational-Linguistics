@@ -10,7 +10,7 @@ ambiguous target word의 품사 정보와 유의어 정보를 추가적으로 �
 
 
 
-### Citation  
+### Reference / BaseModel information
 ```
 @inproceedings{huang-etal-2019-glossbert,
     title = "{G}loss{BERT}: {BERT} for Word Sense Disambiguation with Gloss Knowledge",

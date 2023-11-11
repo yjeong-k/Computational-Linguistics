@@ -1,5 +1,5 @@
 # computational-linguistics
-23-1 Computational Linguistics Class by prof. Lee
+GlossBERT Fine-tuning Project
 
 본 repository는 Word Sense Disambiguation(이하 WSD)을 수행하는 모델을 파인튜닝하는 프로젝트를 담고있다.  
 WSD는 중의적 의미를 지닌 단어가 주어진 맥락에서 어떠한 의미로사용되었는지를 찾는 과제이다.
